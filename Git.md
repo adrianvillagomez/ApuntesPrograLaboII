@@ -1,6 +1,6 @@
 # Pasos para subir un repositorio a GitHub
 
-0.  
+0.  Configuracion de Inicio
 
     git config --global user.name "John Doe"
 
@@ -33,3 +33,4 @@
 7. Subir archivos a repo remoto:
 
         git push -u origin master
+        pass:U2forever
