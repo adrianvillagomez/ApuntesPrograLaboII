@@ -1,0 +1,40 @@
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\bin\Debug\ParcialAlumno-20210516.exe.config
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\bin\Debug\ParcialAlumno-20210516.exe
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\bin\Debug\ParcialAlumno-20210516.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\bin\Debug\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\bin\Debug\Entidades.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno_20210516.FrmEstacionamiento.resources
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno_20210516.Properties.Resources.resources
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.csproj.GenerateResource.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.csproj.CopyComplete
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.exe
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.csproj.AssemblyReference.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\bin\Debug\ParcialAlumno-20210516.exe.config
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\bin\Debug\ParcialAlumno-20210516.exe
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\bin\Debug\ParcialAlumno-20210516.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\bin\Debug\Entidades.dll
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\bin\Debug\Entidades.pdb
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.csproj.AssemblyReference.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno_20210516.FrmEstacionamiento.resources
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno_20210516.Properties.Resources.resources
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.csproj.GenerateResource.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.csproj.CoreCompileInputs.cache
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.csproj.CopyComplete
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.exe
+F:\Facultad\5-Ayudantia\Proyectos C#\C1 2021\Parciales\Propios\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.pdb
+C:\Users\adrian\Desktop\ApuntesPrograLaboII\ParcialesLaboII\Labo2Parcial1parcial\ParcialAlumno-20210516\ParcialAlumno-20210516\bin\Debug\ParcialAlumno-20210516.exe.config
+C:\Users\adrian\Desktop\ApuntesPrograLaboII\ParcialesLaboII\Labo2Parcial1parcial\ParcialAlumno-20210516\ParcialAlumno-20210516\bin\Debug\ParcialAlumno-20210516.exe
+C:\Users\adrian\Desktop\ApuntesPrograLaboII\ParcialesLaboII\Labo2Parcial1parcial\ParcialAlumno-20210516\ParcialAlumno-20210516\bin\Debug\ParcialAlumno-20210516.pdb
+C:\Users\adrian\Desktop\ApuntesPrograLaboII\ParcialesLaboII\Labo2Parcial1parcial\ParcialAlumno-20210516\ParcialAlumno-20210516\bin\Debug\Entidades.dll
+C:\Users\adrian\Desktop\ApuntesPrograLaboII\ParcialesLaboII\Labo2Parcial1parcial\ParcialAlumno-20210516\ParcialAlumno-20210516\bin\Debug\Entidades.pdb
+C:\Users\adrian\Desktop\ApuntesPrograLaboII\ParcialesLaboII\Labo2Parcial1parcial\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.csproj.AssemblyReference.cache
+C:\Users\adrian\Desktop\ApuntesPrograLaboII\ParcialesLaboII\Labo2Parcial1parcial\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.csproj.SuggestedBindingRedirects.cache
+C:\Users\adrian\Desktop\ApuntesPrograLaboII\ParcialesLaboII\Labo2Parcial1parcial\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno_20210516.FrmEstacionamiento.resources
+C:\Users\adrian\Desktop\ApuntesPrograLaboII\ParcialesLaboII\Labo2Parcial1parcial\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno_20210516.Properties.Resources.resources
+C:\Users\adrian\Desktop\ApuntesPrograLaboII\ParcialesLaboII\Labo2Parcial1parcial\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.csproj.GenerateResource.cache
+C:\Users\adrian\Desktop\ApuntesPrograLaboII\ParcialesLaboII\Labo2Parcial1parcial\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.csproj.CoreCompileInputs.cache
+C:\Users\adrian\Desktop\ApuntesPrograLaboII\ParcialesLaboII\Labo2Parcial1parcial\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.csproj.CopyComplete
+C:\Users\adrian\Desktop\ApuntesPrograLaboII\ParcialesLaboII\Labo2Parcial1parcial\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.exe
+C:\Users\adrian\Desktop\ApuntesPrograLaboII\ParcialesLaboII\Labo2Parcial1parcial\ParcialAlumno-20210516\ParcialAlumno-20210516\obj\Debug\ParcialAlumno-20210516.pdb
