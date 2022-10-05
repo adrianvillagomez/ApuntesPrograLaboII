@@ -1,3 +1,10 @@
-# ApuntesPrograLaboII
 
-Apuntes de la Facu
+# Apuntes
+
+Apuntes de programacionII y laboratorio programacionII
+
+
+
+## 🚀 Acerca de mi
+Estudiante de programacion el la UTN
+
