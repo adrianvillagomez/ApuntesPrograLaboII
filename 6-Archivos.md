@@ -145,3 +145,25 @@ Console.WriteLine("Ya escribi y se me agrego al final de la linea");
 
 Console.WriteLine(Archivo.LeerConFile("Pruebas.txt"));
 ```
+
+# Seleccionar imagenen y cargarla al form
+
+```c#
+ private void btnBrowse_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog fileDialog = new OpenFileDialog();
+            //Para seleccionar una carpeta se usa FolderBrowserDialog
+            try
+            {
+                if (fileDialog.ShowDialog() == DialogResult.OK)
+                {
+                    picImagen.BackgroundImage = new Bitmap(fileDialog.FileName);
+                    picImagen.BackgroundImageLayout = ImageLayout.Zoom;
+                }
+            }catch(Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+
+        }
+```
